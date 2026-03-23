@@ -1,6 +1,19 @@
 ## 🌐 Link do site
 https://larissacoutinhoo.github.io/apresentacaoCursoMaquiagem/
 
+## 📱 Prévia do Site (Mobile)
+Aqui estão algumas capturas reais do layout visto no celular:
+
+<p align="center">
+  <img src="./print.png" width="280px" />
+  <img src="./print1.png" width="280px" />
+  <img src="./print2.png" width="280px" />
+  <img src="./print3.png" width="280px" />
+  <img src="./print4.png" width="280px" />
+</p>
+
+> *As imagens mostram partes essenciais das principais seções da página.*
+
 ## Sobre o projeto
 Este projeto é um site de apresentação criado para divulgar um curso de maquiagem profissional. O objetivo principal é fornecer informações detalhadas sobre o curso, apresentar seus benefícios e facilitar o processo de inscrição, que é realizado diretamente pelo WhatsApp.
 
